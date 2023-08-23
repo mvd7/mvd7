@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">Junior Full-Stack Web Developer</h3>
-<p align="left">
+
 
 
   <h3 align="left">Languages:</h3>
@@ -29,4 +29,4 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1051px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere" width="40" height="40"/>
 
-</p>
+
